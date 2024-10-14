@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # College_Search_Website
-=======
+
 # College Finder Website
 
 ## Table of Contents
@@ -48,4 +47,3 @@ If you'd like the links to be more visually appealing while still functioning as
 - Live Demo: [College Finder Website](https://sage-brigadeiros-6d074a.netlify.app)
 - Presentation: [Project Presentation](https://www.canva.com/design/DAFi9NwpJfY/Mo0R8184z0AqZxKrsebn_w/edit?utm_content=DAFi9NwpJfY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
->>>>>>> edc1c13 (Your commit message)
